@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/f5026c6c06c8d551b7f8d7ce8f61a48dbf4bf91937b6c4a304f013370d288ed6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f343634393436342f6d656469612f63363539306337306135393636613362616633313166303831636464613566662e676966" />
+  <img height="200" src="img/programmer.gif" />
 </div>
 
 ---
@@ -68,8 +68,10 @@
   </a>
 
   <a href="https://github.com/AryaRizkyIndriawan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       width="50" 
+       alt="github logo" />
+</a>
 </div>
 
 ---
